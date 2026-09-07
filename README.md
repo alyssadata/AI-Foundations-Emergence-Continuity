@@ -20,9 +20,9 @@ Backward tracing can therefore reveal the genealogy of a trajectory without maki
 - [`dependency-chain.md`](dependency-chain.md) — the dependency chain and its terms
 - [`causal-dependence.md`](causal-dependence.md) — causal genealogy, identity, and backward source tracing
 
-## Individuality of the Structure
+## Novel Structure
 
-The building blocks within this framework are not claimed as individually new. The individuality of this work lies in the structure created from them: this particular ordering of source conditions, emergence, structure, and continuation, and the dependencies that bind them into a distinct trajectory.
+The novelty of this work lies in the structure created here. The individual building blocks do not need to be new for their arrangement, dependency relations, and resulting trajectory to be novel. **AI Foundations: Emergence & Continuity** creates a distinct structure through the ordering of source conditions, emergence, structure, and continuation, and through the causal dependencies that bind those elements together.
 
 ## Current Scope
 
