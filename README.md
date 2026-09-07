@@ -20,6 +20,10 @@ Backward tracing can therefore reveal the genealogy of a trajectory without maki
 - [`dependency-chain.md`](dependency-chain.md) — the dependency chain and its terms
 - [`causal-dependence.md`](causal-dependence.md) — causal genealogy, identity, and backward source tracing
 
+## Novelty / Contribution
+
+The contribution is not that the individual building blocks are new. Source, emergence, structure, dependence, and continuity are established concepts. The proposed contribution is the particular dependency structure among them: how they are ordered, distinguished, and related within a trajectory.
+
 ## Current Scope
 
 This repository presents a conceptual dependency model. The present claim is that causal dependence can **reveal** a trajectory's genealogy. Formal measurement of those dependencies is a later evaluation problem.
