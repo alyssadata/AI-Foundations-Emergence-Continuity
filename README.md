@@ -20,9 +20,9 @@ Backward tracing can therefore reveal the genealogy of a trajectory without maki
 - [`dependency-chain.md`](dependency-chain.md) — the dependency chain and its terms
 - [`causal-dependence.md`](causal-dependence.md) — causal genealogy, identity, and backward source tracing
 
-## Novelty / Contribution
+## Individuality of the Structure
 
-The contribution is not that the individual building blocks are new. Source, emergence, structure, dependence, and continuity are established concepts. The proposed contribution is the particular dependency structure among them: how they are ordered, distinguished, and related within a trajectory.
+The building blocks within this framework are not claimed as individually new. The individuality of this work lies in the structure created from them: this particular ordering of source conditions, emergence, structure, and continuation, and the dependencies that bind them into a distinct trajectory.
 
 ## Current Scope
 
