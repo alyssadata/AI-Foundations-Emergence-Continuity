@@ -1,0 +1,1 @@
+Emergence creates possibility. Structure creates continuity. Causal dependence identifies the trajectory.
